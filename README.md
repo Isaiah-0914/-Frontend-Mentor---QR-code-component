@@ -25,8 +25,7 @@ This is a screenshot of my solution.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://isaiah-0914.github.io/-Frontend-Mentor---QR-code-component)
+- Live Site URL: [view live site here](https://isaiah-0914.github.io/-Frontend-Mentor---QR-code-component)
 
 ## My process
 
@@ -39,10 +38,14 @@ This is a screenshot of my solution.
 
 Basically i learned how to position items with css. Also i understood more of how conrainers behave in css.
 
-```html
-### Continued development I want to learn more flexbox and css grid to do more
-layouts. ## Author - Github - [Isaian-0914](https://www.your-site.com) -
-Frontend Mentor -
-[@isaiah-0914](https://www.frontendmentor.io/profile/Isaiah-0914) - Twitter -
-[@IsaiahNkemboh](https://www.twitter.com/isaiahnkemboh)
-```
+### Continued development
+
+I want to learn more flexbox and css grid to do more
+layouts.
+
+## Author
+
+- Github - [Isaian-0914](https://www.your-site.com) -
+  Frontend Mentor -[@isaiah-0914](https://www.frontendmentor.io/profile/Isaiah-0914)
+
+- Twitter -[@IsaiahNkemboh](https://www.twitter.com/isaiahnkemboh)
